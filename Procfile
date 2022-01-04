@@ -1,0 +1,1 @@
+web: java -cp target/classes:target/dependency/* Dahchour.Bouarfa.tp4soap.heroku.Main
